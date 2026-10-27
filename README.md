@@ -87,7 +87,7 @@ Water-Quality-Detection/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/Water-Quality-Detection.git
+git clone https://github.com/ombhore-dev/Water-Quality-Detection.git
 cd Water-Quality-Detection
 ```
 
